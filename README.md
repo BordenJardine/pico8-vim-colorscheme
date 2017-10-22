@@ -6,6 +6,6 @@ Pico8 inspired color scheme for Vim
 (Note that this image has a bunch of other fun vim stuff going on)
 
 ## Installation
-Simple drop `pico.vim` in `~/.vim/colors/` and `colorscheme pico` to your `.vimrc` file
+Simply drop `pico.vim` in `~/.vim/colors/` and add `colorscheme pico` to your `.vimrc` file
 
 pairs nicely with [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
